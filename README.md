@@ -27,6 +27,7 @@ Verified machine learning implementations completed on [TensorTonic](https://www
 | Min-Max Scaling | Scale numeric values to a requested range using observed minimum and maximum values with constant-input handling. | https://www.tensortonic.com/problems/min-max-scaling |
 | Poisson Probability Mass Function & Cumulative Distribution Function | Compute Poisson probability mass and cumulative probabilities for a nonnegative event count and rate. | https://www.tensortonic.com/problems/poisson-pmf-cdf |
 | Policy Gradient Loss | Compute policy-gradient loss from selected action probabilities and advantage estimates with stable logarithms. | https://www.tensortonic.com/problems/policy-gradient-loss |
+| Time-Based Split with a Gap | Split rows into training and validation sets along time, with a gap after the cutoff so labels cannot leak across it. | https://www.tensortonic.com/problems/time-based-split-with-gap |
 
 View my verified ML profile: [TensorTonic profile](https://www.tensortonic.com/profile/sasmitabiswal967)
 <!-- tensortonic:end -->
